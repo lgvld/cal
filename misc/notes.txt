@@ -1,0 +1,17 @@
+https://gtmetrix.com/reports/cal.ufr-info-p6.jussieu.fr/Q0CPE1wN
+
+https://gtmetrix.com/reports/cal.louis.ga/9zCMvE5p
+
+#
+
+- La met plusieurs dizaines de secondes à charger complètement : https://gtmetrix.com/reports/cal.ufr-info-p6.jussieu.fr/Q0CPE1wN
+  - Une centaine de requêtes.
+  - Plus de 20 fichiers JS.
+  - Pour un total de ~2.1MB.
+- Aucune mise en cache.
+- En général, la page demande à être rechargée (après une première phase de chargement).
+- Merdique à utiliser ; ergonomie vraiment terrible.
+  - Il faut cliquer sur les blocs pour afficher les numéros de salles, or c’est en général la seule chose qui nous intéresse.
+
+# Pour tout télécharger à la suite ~20s
+python cal.py  0.98s user 0.18s system 6% cpu 19.049 total
