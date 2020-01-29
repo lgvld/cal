@@ -1,11 +1,15 @@
-# cal
+# cal.louis.ga
 
-better web calendar than this one: https://cal.ufr-info-p6.jussieu.fr/master/
+alternative (i.e. better) web calendar to: https://cal.ufr-info-p6.jussieu.fr/master/
 
-see it live at: https://cal.louis.ga/
+
+## why?
+
+the original web calendar takes ~25s to load (for a ~4mb total page size!!) thus is unusable on mobile.
+
 
 ## example
 
-visit https://cal.louis.ga/M1_IMA+M1_STL+M1_ANDROIDE+M1_SFPN 
+visit https://cal.louis.ga/M1_IMA+M1_STL+M1_DAC+M1_SFPN 
 
 ;-)
