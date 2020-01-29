@@ -8,7 +8,7 @@ the original web calendar takes ~25s to load (for a ~4mb total page size!! and c
 
 see the GTmetrix reports:
 - for [the original web calendar](https://github.com/lgvld/cal/blob/master/misc/GTmetrix-report-cal.ufr-info-p6.jussieu.fr-20200129T010855-wCBGfD5N.pdf)
-- for [this new version](https://github.com/lgvld/cal/blob/master/misc/GTmetrix-report-cal.louis.ga-20200129T010849-nLRKfgvq.pdf)
+- for [this new version](https://github.com/lgvld/cal/blob/master/misc/GTmetrix-report-cal.louis.ga-20200129T010849-nLRKfgvq.pdf) <3 <3 <3
 
 ## example
 
