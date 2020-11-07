@@ -2,6 +2,8 @@
 
 alternative to: https://cal.ufr-info-p6.jussieu.fr/master/
 
+__check the new version__: https://github.com/lgvld/cal.sorbonne.su
+
 
 ## why?
 
